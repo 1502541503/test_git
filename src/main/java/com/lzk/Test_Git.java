@@ -6,6 +6,6 @@ public class Test_Git {
 
         System.out.println("version01");
 
-
+        System.out.println("分支02合并到主分支");
     }
 }
