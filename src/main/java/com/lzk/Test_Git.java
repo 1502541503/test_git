@@ -6,9 +6,9 @@ public class Test_Git {
 
         System.out.println("version01");
 
-        System.out.println("唐鑫鑫最帅");
+        System.out.println("唐鑫鑫");
 
-        System.out.println("梁鑫最傻逼");
+        System.out.println("梁鑫");
 
 
         System.out.println("分支01合并到master");
