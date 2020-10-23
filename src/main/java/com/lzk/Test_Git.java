@@ -6,6 +6,10 @@ public class Test_Git {
 
         System.out.println("version01");
 
+        System.out.println("唐鑫鑫最帅");
+
+        System.out.println("梁鑫最傻逼");
+
 
     }
 }
